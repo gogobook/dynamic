@@ -24,5 +24,5 @@ watch: {
 
 ## 自定義事件-關於emit 的使用。
 
-https://cn.vuejs.org/v2/guide/components-custom-events.html
+https://cn.vuejs.org/v2/guide/components-custom-events.html<br>
 https://cn.vuejs.org/v2/guide/components.html#通过事件向父级组件发送消息
